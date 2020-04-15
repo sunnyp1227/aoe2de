@@ -1,8 +1,11 @@
-# aoe2de
-AOE2: DE Match Information
+# AOE2: DE Match Information
 
-Script to print out the MMR in last match.
+Script to print out the Match information in current/last match.
 
-Run ./aoe.bat in the background to play.
+You might need to install Python distribution from Windows Store.
 
-Require Python distribution from Windows Store.
+
+## Usage
+Modify the "aoe.bat" file to your steam_id (Can be found from Steam Profile)
+
+Run ./aoe.bat in the background while playing.
