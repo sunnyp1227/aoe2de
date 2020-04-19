@@ -6,6 +6,8 @@ You might need to install Python distribution from Windows Store.
 
 
 ## Usage
+[Download](https://github.com/sunnyp1227/aoe2de/archive/master.zip)
+
 Set your <b>STEAM_ID</b> and your prefered <b>LANGUAGE</b> in "aoe.bat" file.
 
 STEAM_ID can be found by:
