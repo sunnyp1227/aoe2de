@@ -6,7 +6,7 @@ You might need to install Python distribution from Windows Store.
 
 
 ## Usage
-Set your <b>STEAM_ID</b> and your prefered </b>LANGUAGE</b> in "aoe.bat" file.
+Set your <b>STEAM_ID</b> and your prefered <b>LANGUAGE</b> in "aoe.bat" file.
 
 STEAM_ID can be found by:
  1. Open up your Steam client and choose View, then click Settings.
